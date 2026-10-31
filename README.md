@@ -1,9 +1,7 @@
 
-<div align="center">
-  <img src="assets/butter-yellow-blue-banner.png" alt="Winny Nathalie — learning, building, and just trying things out" width="100%" />
-</div>
-
 ## about me 🍋
+
+Learning, building, and just trying things out
 
 Just a curious human who codes sometimes (only when the mood hits)
 
