@@ -1,17 +1,16 @@
+<div align="center">
+  <img src="Winny-Github-Banner.png" alt="Winny Nathalie" width="100%" />
+</div>
 
-## about me 🍋
+## about me 
 
-Learning, building, and just trying things out
+Just a curious human who loves trying random things and turning little ideas into tiny projects
 
-Just a curious human who codes sometimes (only when the mood hits)
-
-I like trying random things and turning little ideas into tiny projects
-
-Mostly just here to learn, experiment, and have a little fun along the way 😎
+Still learning, experimenting, and figuring things out along the way 
 
 ---
 
-## little things i've been building 🧩
+## little things i've been building
 
 ### 🧮 Shopee Profit Calculator
 
@@ -39,6 +38,6 @@ Still a work in progress — coming soon!!
 
 ## find me around 
 
-[GitHub](https://github.com/WinnyNathalie) · [LinkedIn](https://www.linkedin.com/in/winny-nathalie/) · [Instagram](https://www.instagram.com/winny_nathalie/) · [Email](mailto:nathaliewinny@gmail.com)
+[GitHub](https://github.com/WinnyNathalie) · [LinkedIn]([https://www.linkedin.com/in/winny-nathalie/](https://www.linkedin.com/in/winny-nathalie-99191b222?utm_source=share_via&utm_content=profile&utm_medium=member_android)) · [Instagram](https://www.instagram.com/winny_nathalie/) · [Email](mailto:nathaliewinny@gmail.com)
 
 
