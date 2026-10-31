@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Winny-Github-Banner.png" alt="Winny Nathalie" width="100%" />
+  <img src="/assets/Winny-Github-Banner.png" alt="Winny Nathalie" width="100%" />
 </div>
 
 ## about me 
